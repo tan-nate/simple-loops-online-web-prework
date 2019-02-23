@@ -37,7 +37,6 @@ def while_iterator(number_of_times)
     counter += 1
   end
 end
-binding.pry
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
